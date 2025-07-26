@@ -17,7 +17,7 @@
   <a href="https://t.me/PranjPranj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://discord.gg/sRSrjKWM" target="_blank">
+  <a href="pranj.46" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">(MERN) | AI Agent Enthusiast | Security Learner<br>- 🔭 I’m currently working at Netsepio's Erebrus project  <br>- 📚 Exploring AI Agents with LangGraph, Ollama, FastAPI<br>👯 I’m looking to collaborate on open-source projects related to AI, web3, and full-stack development.</p>
+<p align="left">(MERN) | AI Agent Enthusiast | Security Learner<br>- 🔭 I’m currently working at Erebrus <br><br>- 📚 Exploring AI Agents with LangGraph, Ollama, FastAPI<br><br>👯 I’m looking to collaborate on open-source projects related to AI, web3, and full-stack development.</p>
 
 ###
 
@@ -72,6 +72,10 @@
 
 <div align="center">
 </div>
+
+###
+
+<h3 align="center">https://www.pranj.dev/</h3>
 
 ###
 
