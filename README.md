@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">(MERN) | AI Agent Enthusiast | Security Learner<br>- 🔭 I’m currently working at Erebrus <br>- 📚 Exploring AI Agents with LangGraph, Ollama, FastAPI<br>👯 I’m looking to collaborate on open-source projects related to AI, web3, and full-stack development.</p>
+<p align="left">(MERN) | AI Agent Enthusiast | Security Learner<br>- 🔭 I’m currently working at Netsepio's Erebrus project  <br>- 📚 Exploring AI Agents with LangGraph, Ollama, FastAPI<br>👯 I’m looking to collaborate on open-source projects related to AI, web3, and full-stack development.</p>
 
 ###
 
